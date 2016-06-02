@@ -17,7 +17,7 @@
    created 6 Nov 2008
    by David A. Mellis
    modified 30 Aug 2011
-   by Tom Igoe
+   by Tqe Two
 
    This example code is in the public domain.
 
